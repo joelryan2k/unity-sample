@@ -1216,7 +1216,7 @@ MonoBehaviour:
   _ipv6BindAddress: 
   _port: 7770
   _maximumClients: 4095
-  _clientAddress: 192.168.0.122
+  _clientAddress: 192.168.0.179
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
